@@ -1,7 +1,13 @@
 Welcome to Dk recipes
+
+VEG MENU :-
 1)kheer
 2)Pasta
-3)Chiken fry
+
+
+NON-VEG MENI :-
+1)Chiken fry
+2)Fish fry
 
 
 
