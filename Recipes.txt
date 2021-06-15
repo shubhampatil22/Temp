@@ -3,6 +3,8 @@ Welcome to Dk recipes
 VEG MENU :-
 1)kheer
 2)Pasta
+3)Pizza
+4)Berger
 
 
 NON-VEG MENU :-
@@ -10,6 +12,7 @@ NON-VEG MENU :-
 2)Fish fry
 
 
+Done my Changes
 
 Thank you :)
 
